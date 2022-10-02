@@ -1,0 +1,10 @@
+body {
+ background-color: #000;
+ background-image: url(fon.jpg);
+ background: url(fon.jpg);
+ background-size: 100% ;
+ background-repeat: no-repeat;   
+}
+div {
+    height: 2700px
+}
